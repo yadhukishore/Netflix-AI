@@ -14,3 +14,6 @@ AI Serch engine
  *if you want to use it put your Gemini key*
 
  ![alt text](image-3.png)
+
+
+ ![alt text](image-4.png)
